@@ -1,0 +1,8 @@
+[JOS_Unstable]
+name=LCSEE Unstable Repository
+baseurl=http://192.168.1.85/JOS/unstable/6.4
+gpgcheck=1
+enabled=1
+priority=2
+http_caching=none
+metadata_expire=1

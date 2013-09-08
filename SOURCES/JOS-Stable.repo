@@ -1,0 +1,8 @@
+[JOS_Stable]
+name=JOS Stable Repository
+baseurl=http://192.168.1.85/JOS/stable/6.4
+gpgcheck=1
+enabled=1
+priority=1
+http_caching=none
+metadata_expire=1
